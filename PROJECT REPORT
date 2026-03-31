@@ -1,0 +1,110 @@
+# PROJECT REPORT
+## AI-Based Chat Language Translator
+
+### SUBMITTED BY:
+Lakshya Agarwal
+Enrollment No.: 25BCE10768
+
+## 1. Introduction
+
+In the present global scenario, it is very common to see people communicating with one another even 
+if they speak different languages. But still, there is a huge difficulty in communicating with people 
+because of the language barrier. So, to overcome this difficulty, the project "AI-Based Chat Language 
+Translator" is developed.
+
+This project is basically a command-line interface program using which the user can translate the text 
+from one language to another. It is developed using the online translation service.
+
+## 2. Objective
+
+The main objectives of this project are as follows:
+
+*   Develop a simple language translation system
+*   Include support for many international and regional languages
+*   Allow real-time text translation
+*   Develop an easy-to-use command-line interface
+*   Store the history of translated messages
+
+## 3. Technologies Used
+
+The technologies used to develop this project are as follows:
+*   Programming Language: Python
+*   Library: deep_translator
+*   API: Google Translate using deep_translator library
+*   Platform: Command Line Interface (CLI)
+
+## 4. System Architecture
+
+The working of the project can be explained with the help of the following steps:
+
+1.  The user will be asked to input the text to be translated.
+2.  Next, the user will be asked to select the language for translation.
+3.  Then, the translation will take place.
+4.  After translation, the translated message will be stored in the history.
+5.  Finally, the translated message will be displayed to the user.
+4. The translated text is shown to the user
+5. The translation is stored in the history for later use
+
+## 5. Features of the Project
+
+The project offers a number of important features:
+* It can support multiple languages like Hindi, English, French, etc.
+* It can automatically detect languages.
+* It can easily switch between source and target languages.
+* It can store the translation history.
+* It offers important commands like help, reset, swap, and history.
+* It can handle errors like invalid languages.
+
+## 6. Working of the Program
+
+The program works in the following manner:
+* The program starts and asks the user to input the source and target languages.
+* The user can choose auto detection for the source language.
+* The user can enter the text to be translated.
+* The program uses Google Translator to get the translation.
+* The translation is shown to the user.
+
+The program offers a number of commands:
+* help: It can display all the commands.
+* lang: It can display all the languages.
+* swap: It can swap the source and target languages.
+* reset: It can reset the source and target languages.
+* history: It can display the translation history.
+* quit: It can quit the program.
+
+## 7. Sample Input and Output
+
+The input and output of the program can be shown in the following manner:
+* Source: auto
+* Target: en
+* Text: नमस्ते आप कैसे हैं
+
+* Output: Hello, how are you
+
+## 8. Limitations
+
+The project, though important, has a number of limitations:
+* It requires an active internet connection.
+* It relies on an external API.
+* It lacks a GUI.
+* It lacks accuracy in translation.
+
+## 9. Future Enhancements
+
+The project can be enhanced in various ways by incorporating these features:
+* Voice input facility using speech recognition technology
+* Outputting text in speech format using text-to-speech technology
+* Developing a graphical interface or web interface version of the project
+* Developing a mobile application version of the project
+* Providing offline facility using AI models
+
+## 10. Conclusion
+
+The project AI-Based Chat Language Translator is a great example of how technology can be leveraged as a tool to effectively bridge language gaps between people. The project is simple, efficient, and user-friendly.
+
+## 11. References
+* Official Python Documentation
+* deep_translator Library Documentation
+* Google Translate API
+* Stack Overflow
+* GitHub
