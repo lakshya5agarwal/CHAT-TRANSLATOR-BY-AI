@@ -1,0 +1,5 @@
+deep-translator==1.11.4
+SpeechRecognition==3.10.1
+pyaudio==0.2.13
+gTTS==2.5.1
+playsound==1.2.2
